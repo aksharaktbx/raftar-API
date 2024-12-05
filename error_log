@@ -1,0 +1,4 @@
+[14-Nov-2024 08:40:48 UTC] PHP Fatal error:  Cannot declare class CreateSattaMatkaGamesTable, because the name is already in use in /home/lwdld500nr82/public_html/kotiboxglobaltech.com/raftar786/database/migrations/2024_11_14_083335_create_games_table.php on line 7
+[14-Nov-2024 08:45:24 UTC] PHP Fatal error:  Cannot declare class CreateSattaMatkaGamesTable, because the name is already in use in /home/lwdld500nr82/public_html/kotiboxglobaltech.com/raftar786/database/migrations/2024_11_14_083335_create_games_table.php on line 7
+[04-Dec-2024 08:58:56 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/lwdld500nr82/public_html/kotiboxglobaltech.com/raftar786/app/Console/Commands/GenerateGameResult.php on line 27
+[04-Dec-2024 08:59:12 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/lwdld500nr82/public_html/kotiboxglobaltech.com/raftar786/app/Console/Commands/GenerateGameResult.php on line 30

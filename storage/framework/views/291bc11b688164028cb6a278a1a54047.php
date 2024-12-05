@@ -1,0 +1,1 @@
+public_html/raftar786/resources/views/welcome.blade.php<?php /**PATH /home/lwdld500nr82/public_html/kotiboxglobaltech.com/raftar786/resources/views/welcome.blade.php ENDPATH**/ ?>
